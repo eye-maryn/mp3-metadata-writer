@@ -1,0 +1,20 @@
+{
+    "サンプルファイル.wav": {
+        "extension": "mp3",
+        "metadatas": {
+            "title": "サンプルファイル",
+            "titlesort": "さんぷるふぁいる",
+            "album": "SAMPLE",
+            "albumsort": "さんぷる",
+            "artist": "sitone",
+            "website": "https://serenaderecord.com",
+            "author": "sitone",
+            "albumartist": "sitone",
+            "albumartistsort": "しとね",
+            "composer": "sitone",
+            "composersort": "しとね",
+            "lyricist": "sitone",
+            "tracknumber": "1"
+        }
+    }
+}
