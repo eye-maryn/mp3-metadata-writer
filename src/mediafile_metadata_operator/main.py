@@ -24,7 +24,7 @@ def make_missing_json_key_message(target: dict) -> str:
         missingKey.append('extension')
     
     message = ', '.join(missingKey) + 'が欠損しています。'
-    if len(missingDictTypeKey != 0):
+    if len(missingDictTypeKey) != 0:
         if len(missingKey) != 0:
             message = message + 'また、'
         message = message + ', '.join(missingDictTypeKey) + 'はdict型を予期していますが、指定されているのはdictではないようです。'
